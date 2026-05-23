@@ -1,7 +1,7 @@
 # Ender OS
 **An optimalized and debloated windows 11.**
 
-``Created by Ender Tech``
+``Created by Flatron :P``
 
 **What is Ender OS?**
 
