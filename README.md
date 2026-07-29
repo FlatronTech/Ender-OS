@@ -1,3 +1,5 @@
+## IMPORTANT NOTICE: PROJECT IS DISCONTINUED!
+
 # Ender OS
 **An optimalized and debloated windows 11.**
 
